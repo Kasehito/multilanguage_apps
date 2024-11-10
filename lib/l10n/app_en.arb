@@ -1,0 +1,8 @@
+{
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "chooseLanguage": "Choose your Language",
+  "description": "This is English",
+  "helloWorld": "Hello World!"
+}

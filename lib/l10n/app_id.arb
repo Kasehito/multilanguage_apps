@@ -1,0 +1,8 @@
+{
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "chooseLanguage": "Pilih Bahasamu",
+  "description": "Ini adalah Bahasa Indonesia",
+  "helloWorld": "Halo Dunia!"
+}

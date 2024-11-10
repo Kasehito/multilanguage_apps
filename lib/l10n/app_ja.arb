@@ -1,0 +1,8 @@
+{
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "chooseLanguage": "言語を選んでください",
+  "description": "これは日本語です",
+  "helloWorld": "こんにちは世界！"
+}
